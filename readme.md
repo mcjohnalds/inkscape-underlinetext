@@ -1,6 +1,6 @@
 # Underline Text for Inkscape
 
-The newer versions of inkscape (>=.9) support displaying underlined text, but
+The newer versions of inkscape (>=.91) support displaying underlined text, but
 lack any buttons or key bindings. This extension adds a menu option under
 `Extensions/Text/Underline Text` and a keybinding (Shift-u) that underlines
 selected text objects.
