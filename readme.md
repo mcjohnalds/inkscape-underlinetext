@@ -21,6 +21,7 @@ rm -rf inkscape-underlinetext
 git clone https://github.com/mcjohnalds/inkscape-underlinetext.git
 mv inkscape-underlinetext/extensions ~/.config/inkscape
 rm -rf inkscape-underlinetext
+```
 
 Then manually add the following lines to your
 `~/.config/inkscape/keys/default.xml`:
@@ -30,7 +31,7 @@ Then manually add the following lines to your
 <bind key="U" modifiers="Shift" action="mcjohnalds.underlinetext"/>
 ```
 
-# Uninstallation
+## Uninstallation
 
 ### If you haven't changed inkscape's keybindings
 
